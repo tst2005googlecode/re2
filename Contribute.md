@@ -1,0 +1,1 @@
+re2 is now hosted on github. See https://github.com/google/re2/wiki/Contribute for how to contribute.
